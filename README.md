@@ -2,7 +2,7 @@
 ##Introduction
 Thanks to God and Peace be upon Muhammad and Jesus Christ and anyone following them in the right way.
 
-It's a limnoria plug-in which uses __this_date_base__ to provide Sahih Bukhari hadiths in IRC.
+It's a limnoria plug-in which uses https://github.com/farooghkz/Sahih-Bukhari-JSON-DB to provide Sahih Bukhari hadiths in IRC.
 
 currently it has two commands:
 `!rbukhari` - Selects and returns a random hadith
